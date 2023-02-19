@@ -1,6 +1,6 @@
 # Equivariant graph neural networks for atomic scale simulations (three week project)
 
-This github repository contains some of the core results from tree week project: Equivariant graph neural networks for atomic scale simulations. 
+This github repository contains some of the core results from three week project: Equivariant graph neural networks for atomic scale simulations. 
 
 - Initial error considerations.ipynb: this contains a brief data overview of the AuTiO_2 data set, a benchmarking of NequIP models with r_max values as well as different ways of evaluating the error of these models.
 
